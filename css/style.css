@@ -1,0 +1,54 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+    font-size: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+table{
+    width: 500px;
+    margin: auto;
+}
+
+
+table tr td {
+    border: 1px solid black;
+
+}
+.david {
+  
+    margin: 15px auto;
+    width: 80px;
+    background-color: rgb(245, 252, 245);
+    margin: auto;
+    
+}
+
+.var{
+   
+    position: relative;
+}
+.var :hover{
+    background-color: red; 
+
+}
+#msg {
+    position: absolute;
+    display: inline-block;
+    background-color: red;
+    right: 0px;
+    bottom: 8px;
+}
+.fas {
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+}
+
+
